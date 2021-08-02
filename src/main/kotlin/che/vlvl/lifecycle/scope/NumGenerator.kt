@@ -1,4 +1,4 @@
-package che.vlvl.lifecycle.bean
+package che.vlvl.lifecycle.scope
 
 interface NumGenerator {
     fun getNumber():Int

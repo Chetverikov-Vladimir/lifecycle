@@ -1,6 +1,6 @@
-package che.vlvl.lifecycle.bean.impl
+package che.vlvl.lifecycle.scope.impl
 
-import che.vlvl.lifecycle.bean.BaseNumGenerator
+import che.vlvl.lifecycle.scope.BaseNumGenerator
 import org.springframework.beans.factory.config.ConfigurableBeanFactory.SCOPE_PROTOTYPE
 import org.springframework.context.annotation.Scope
 import org.springframework.context.annotation.ScopedProxyMode

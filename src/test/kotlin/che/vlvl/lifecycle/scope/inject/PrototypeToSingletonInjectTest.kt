@@ -1,4 +1,4 @@
-package che.vlvl.lifecycle.bean.inject
+package che.vlvl.lifecycle.scope.inject
 
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

@@ -1,6 +1,6 @@
-package che.vlvl.lifecycle.bean.inject
+package che.vlvl.lifecycle.scope.inject
 
-import che.vlvl.lifecycle.bean.impl.PrototypeNumGenerator
+import che.vlvl.lifecycle.scope.impl.PrototypeNumGenerator
 import org.springframework.stereotype.Service
 
 @Service

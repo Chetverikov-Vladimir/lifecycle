@@ -1,4 +1,4 @@
-package che.vlvl.lifecycle.bean
+package che.vlvl.lifecycle.scope
 
 import java.util.*
 

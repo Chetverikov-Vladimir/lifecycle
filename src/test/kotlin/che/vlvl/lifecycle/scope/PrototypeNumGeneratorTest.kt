@@ -1,6 +1,6 @@
-package che.vlvl.lifecycle.bean
+package che.vlvl.lifecycle.scope
 
-import che.vlvl.lifecycle.bean.impl.PrototypeNumGenerator
+import che.vlvl.lifecycle.scope.impl.PrototypeNumGenerator
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
