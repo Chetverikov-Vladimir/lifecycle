@@ -9,3 +9,5 @@
 В пакете initialization представлен жизненный цикл бина с постпроцессорами и пояснениями, что для чего нужно
 ![Lifecycle](image/lifecycle.JPG "lifecycle.JPG")
 ![Lifecycle2](image/lifecycle2.JPG "lifecycle2.JPG")
+
+Также добавлены тесты со @SpringBootTest с различной конфигурацией тестового контекста
